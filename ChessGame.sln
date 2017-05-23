@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame", "ChessGame\ChessGame.csproj", "{6B452CC7-7F76-49A4-94CF-B89D5B3D5585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame.Test", "ChessGame.Test\ChessGame.Test.csproj", "{F12CF580-906A-4266-AFA1-CD6E21C0D9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B452CC7-7F76-49A4-94CF-B89D5B3D5585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B452CC7-7F76-49A4-94CF-B89D5B3D5585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B452CC7-7F76-49A4-94CF-B89D5B3D5585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B452CC7-7F76-49A4-94CF-B89D5B3D5585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12CF580-906A-4266-AFA1-CD6E21C0D9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12CF580-906A-4266-AFA1-CD6E21C0D9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12CF580-906A-4266-AFA1-CD6E21C0D9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12CF580-906A-4266-AFA1-CD6E21C0D9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
